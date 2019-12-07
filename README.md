@@ -21,6 +21,13 @@ Usage: nhk-prginfo.rb command
       jinfo  area service program-id
       jnowonair area service
 ```
+
+## Installation
+```
+# make install
+```
+Configure Makefile to customize the destination directories if needed before "make install".
+
 ## License
 
 You can copy, modify and redistrubute this program without permission except for constants.py and genre_code.rb in youzaka/ariblib/ directory.
