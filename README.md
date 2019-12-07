@@ -28,6 +28,16 @@ Usage: nhk-prginfo.rb command
 ```
 Configure Makefile to customize the destination directories if needed before "make install".
 
+## Configuration
+```
+/usr/local/etc/nhk-prginfo/apikey.conf
+API Key: <Your API key>
+API URL: <Your app URL>
+```
+
+## Requirement
+You need to create an account at http://api-portal.nhk.or.jp/ , register your API URL and get your API key.
+
 ## License
 
 You can copy, modify and redistrubute this program without permission except for constants.py and genre_code.rb in youzaka/ariblib/ directory.
