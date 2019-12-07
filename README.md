@@ -26,7 +26,7 @@ Usage: nhk-prginfo.rb command
 ```
 # make install
 ```
-Configure Makefile to customize the destination directories if needed before "make install".
+Configure Makefile to customize the destination directories if needed before "make install". You may also need to modify CONF_DIR and LIB_DIR in nhk-prginfo.rb.
 
 ## Configuration
 ```
